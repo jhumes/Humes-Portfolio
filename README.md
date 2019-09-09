@@ -17,4 +17,4 @@ Thus, my learning goals for this class are:
 - Develop the skill to make smart design choices regarding color and other visualization aspects.
 
 # Visualization Portfolio
-Visualizations are coming soon!
+Week 2 - [OECD Data Visualization](/wk2_OECD_visualization.md)
