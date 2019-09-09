@@ -1,6 +1,6 @@
 [Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
 
-#OECD Data Visualization
+# OECD Data Visualization
 
 In this entry we'll be looking at data from the Organization for Economic Co-operation and Development (OECD). Below is a chart created using the OECD website's online tool. It represents total government debt as a percent of GDP for the year 2015, with the United States highlighted.
 
