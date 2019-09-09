@@ -17,4 +17,4 @@ Thus, my learning goals for this class are:
 - Develop the skill to make smart design choices regarding color and other visualization aspects.
 
 # Visualization Portfolio
-Week 2 - [OECD Data Visualization](https://jhumes.github.io/Humes-Portfolio/wk2_OECD_data.md)
+Week 2 - [OECD Data Visualization](https://jhumes.github.io/Humes-Portfolio/wk2_OECD_data)
