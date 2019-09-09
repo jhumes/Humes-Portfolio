@@ -18,3 +18,4 @@ Thus, my learning goals for this class are:
 
 # Visualization Portfolio
 Week 2 - [OECD Data Visualization](https://jhumes.github.io/Humes-Portfolio/wk2_OECD_data.md)
+[test link](https://jhumes.github.io/Humes-Portfolio/test.md)
