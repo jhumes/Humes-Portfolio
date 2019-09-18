@@ -22,10 +22,12 @@ When drafting a redesign, two methods came to mind. I could use a simple treemap
 To simulate presenting information to an audience of non-experts, I presented the wireframe to two members of my immediate family. The consensus among them was that they had no idea what the alluvial diagram really was. But both understood relatively easily that the treemap was sort of like a pie chart, which was something much more familiar. In the end, I decided to go with the treemap. It's the most simple, and it only contains the same information that the section dashboard wanted to display. The original spirit of the dashboard was to emphasize the proportion of toxicology reports in a category, which makes the alluvial diagram less optimal since it excels at showing flow between categories. Here is the final result, which I made in Tableu:
 
 ![Tableu Treemap](https://jhumes.github.io/Humes-Portfolio/images/Assignment_3-4/ch55_treemap.png)
+Data source: "The Massachusettes Opioid Epidemic. A Data Visualization from the Findings of the Chapter 55 Report." https://chapter55.digital.mass.gov/. Accessed Sept. 18, 2019.
+(Data can be downloaded from a link in the dashboard.)
 
 Going from wireframe to final draft, I decided to make the blocks in the treemap horizontal rather than stacking them on top of each other like the wireframe does. It was the default in Tableu, and it looks better because there's no connotation associated with one category being literally on top of the other. Overall, my goal was to remain true to the spirit of the original visualization, but just present the information in a cleaner way, with all of the good information on the visual with little cognitive load.
 
 [Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
 
-##References
+## References
 1. "The Massachusettes Opioid Epidemic. A Data Visualization from the Findings of the Chapter 55 Report." https://chapter55.digital.mass.gov/. Accessed Sept. 18, 2019.
