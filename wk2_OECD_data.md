@@ -1,5 +1,3 @@
-[Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
-
 # OECD Data Visualization
 
 In this entry we'll be looking at data from the Organization for Economic Co-operation and Development (OECD). Below is a chart created using the OECD website's online tool. It represents total government debt as a percent of GDP for the year 2015, with the United States highlighted.
@@ -22,3 +20,5 @@ Going back to the original plot, it's easy to see that Japan has the highest deb
 1. A bar chart that shows hard numerical data for all countries for one year
 2. A beeswarm chart that shows qualitative data for all countries for all years
 3. A scatter plot + convex hull that shows hard numerical data for one country for all years
+
+[Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
