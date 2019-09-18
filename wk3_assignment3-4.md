@@ -23,6 +23,7 @@ To simulate presenting information to an audience of non-experts, I presented th
 
 ![Tableu Treemap](https://jhumes.github.io/Humes-Portfolio/images/Assignment_3-4/ch55_treemap.png)
 Data source: "The Massachusettes Opioid Epidemic. A Data Visualization from the Findings of the Chapter 55 Report." https://chapter55.digital.mass.gov/. Accessed Sept. 18, 2019.
+
 (Data can be downloaded from a link in the dashboard.)
 
 Going from wireframe to final draft, I decided to make the blocks in the treemap horizontal rather than stacking them on top of each other like the wireframe does. It was the default in Tableu, and it looks better because there's no connotation associated with one category being literally on top of the other. Overall, my goal was to remain true to the spirit of the original visualization, but just present the information in a cleaner way, with all of the good information on the visual with little cognitive load.
