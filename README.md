@@ -20,3 +20,6 @@ Thus, my learning goals for this class are:
 Week 2 - [OECD Data Visualization](https://jhumes.github.io/Humes-Portfolio/wk2_OECD_data)
 
 Week 3 - [Assignments 3 & 4 - Critique by Design](https://jhumes.github.io/Humes-Portfolio/wk3_assignment3-4)
+
+Final Project - "Visualizing My Own Weight Loss Habits: What Really Works?"
+  [Part 1](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part1)
