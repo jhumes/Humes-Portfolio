@@ -29,6 +29,7 @@ We can also compare the amount of exercise between periods and see that period 2
 Other habits can also be examined as well (analysis pending). For example, how much did sleep affect my calorie intake the next day? Being tired, for example, might make me grumpy and want to eat more to feel better. How much did exercise affect my self-reported mood? Do I feel better on days where I exercise? Do I eat more on holidays, at social events, or whenever I see my SO? If you are trying to lose weight, seeing these trends might help you understand some habits you might want to consider controlling.
 
 # Sketches
+Below are sketches for some of my planned visualizations:
 
 # Data
 My data can be downloaded as an excel workbook here: [Weight_Loss.xlsx](https://jhumes.github.io/Humes-Portfolio/Final_Project/Weight_Loss.xlsx)
@@ -49,6 +50,8 @@ In terms of how my data will be used, the meat of my visualization will be compa
 
 The final project will be presented in Shorthand.
 
+It will have the general structure:
 
+First, an introduction describing that most weight loss efforts fail, backed up by some statistics. Then, my data will be introduced with one simple visualization that reveals my efforts as successful. Then, a section exploring some of the data to build interest, looking at my habits that I spoke about in the Outline section. All of these explorations would follow of format of visualization followed by explanation/context, going through all of the interesting variables and trends and explaining how it relates to my weight loss and why being aware of it or controlling it might help people looking to lose weight. A final section will use the visualization of the actual vs. predicted trends for my weight to drive home the call to action that tracking apps and a strict exercise routine can have a positive impact on weight loss.
 
 [Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
