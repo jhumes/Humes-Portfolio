@@ -31,6 +31,10 @@ Other habits can also be examined as well (analysis pending). For example, how m
 # Sketches
 Below are sketches for some of my planned visualizations:
 
+![Build Intrigue, Explore Data](https://jhumes.github.io/Humes-Portfolio/Final_Project/Sketches/Sketches1.jpg)
+
+![Call to Action](https://jhumes.github.io/Humes-Portfolio/Final_Project/Sketches/Sketches2.jpg)
+
 # Data
 My data can be downloaded as an excel workbook here: [Weight_Loss.xlsx](https://jhumes.github.io/Humes-Portfolio/Final_Project/Weight_Loss.xlsx)
 
