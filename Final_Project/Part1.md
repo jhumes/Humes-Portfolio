@@ -1,4 +1,4 @@
-# Outline - Overview
+# Outline
 
 I self reported data regarding my weight loss efforts and some other variables during two periods of my life:
 1. The fall and winter of 2016-2017
@@ -8,10 +8,26 @@ Both of these efforts were successful, but had differing characteristics:
 - Period 1 was much more strict about tracking my calories, less focused on routine exercise.
 - Period 2 was more lax on calorie counting (I didn't use a tracking app) but had a much more strict exercise schedule. It also collected a lot more variables, such as the amount of sleep I got, the weather, etc.
 
-By comparing these two periods, I want to convince the audience that a strict calorie counting using a tool (like MyFitnessPal, etc.) as well as a strict exercise routine will yield the best, most predictable weight loss results. In general, Period 1 demonstrates why tracking app are useful, and period 2 demonstrates the importance of frequent exercise. I also want to show particular habits about myself (days in which I tended to eat more, getting enough sleep, etc.) that might reveal themselves as something to be aware of or something to control when trying to lose weight, which can be achieved using the additional variables I collected in period 2.
+By comparing these two periods, I want to convince the audience that a strict calorie counting using a tool (like MyFitnessPal, etc.) as well as a strict exercise routine will yield the best, most predictable weight loss results. In general, Period 1 demonstrates why tracking app are useful, and period 2 demonstrates the importance of frequent exercise. I also want to show particular habits about myself (days in which I tended to eat more, getting enough sleep, etc.) that might reveal themselves as something to be aware of or something to control when trying to lose weight, which can be achieved using the additional variables I collected in period 2. The overall story should contrast to the typical weight loss narrative: most of them fail. The goal is for it to be obvious that the specifics of my routine are what allowed it to be successful, and people might want to emulate it if they struggle to lose weight.
 
-# Outline - The Story
+*The Story Arc*
 
-Setup:
-Conflict:
-Resolution:
+***Setup***: Most weight loss efforts fail.
+***Conflict***: My data shows two cases that were successful. What can the data reveal about why my efforts succeeded?
+***Resolution***: A strict exercise routine and a tracking app to keep yourself honest and focused had a positive impact. (Controlling other habits like sleep, etc. support this as well.)
+
+***Call to Action***: If you want to lose weight, tracking apps and a strict exercise routine will improve your results.
+
+The story begins by presenting the audience with something they already know: most weight loss efforts fail. What if we could use data to show why some cases are successful? A quick visual summary of both of my datasets shows something clear: I was able to lose weight. Now the audience should be intrigued as to what allowed me to succeed. We can then delve into an analysis. 
+
+Period 1 used a tracking app, and period 2 did not. How did period 1 benefit? A trend that I have already confirmed while exploring my data is that the differences between my actual and predicted weight for period 1 are smaller than period 2. In other words, a tracking app keeps me more honest about how many calories I can consume, making my weight loss more predictable.
+
+We can also compare the amount of exercise between periods and see that period 2 has much more exercise, delivered more consistently. The total weightloss in period 2 was also higher. At least for me, more exercise had a benefit on my weight loss. In both periods, I had similar motivations and was in a similar environment, so differences aside from these methods were controlled for to the best of my ability. Based on that, we can conclude that two large impacts on my weight loss were the use of tracking apps, and a strict exercise routine.
+
+Other habits can also be examined as well (analysis pending). For example, how much did sleep affect my calorie intake the next day? Being tired, for example, might make me grumpy and want to eat more to feel better. How much did exercise affect my self-reported mood? Do I feel better on days where I exercise? Do I eat more on holidays, at social events, or whenever I see my SO? If you are trying to lose weight, seeing these trends might help you understand some habits you might want to consider controlling.
+
+#Sketches
+
+#Data
+
+[Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
