@@ -107,7 +107,7 @@ Story Board: Incorporated the visualization changes listed above, and changed th
 
 # Moodboard
 
-![Moodboard](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/moodboard.pdf)
+![Moodboard](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/moodboard.png)
 
 Above is my moodboard, which was created in Canva. In general I want to use colors and images focused on blue an orange. They compliment well, and are colorblind friendly. Additionally, many fitness apps such as MyFitnessPal, Elite HRV, etc. use blue themes, so a blue theme on my project might resonate with exercise-oriented users. The font used is Roboto, which is a simple, easy to read font. I think this is best for communicating a clear message. Being overly aesthetic isn't my goal.
 
