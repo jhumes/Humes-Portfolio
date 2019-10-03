@@ -8,10 +8,11 @@ Below is the orginal storyboard I drafted before conducting any feedback intervi
 ![Storyboard 2](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Original/sb2.jpg)
 
 The storyboard shows the general flow of my story, whereas the wireframes (up next) are the visualization blown up and in more detail.
+Generally, I wanted to entice readers with a hook by using some cited statistics about weight loss and obeisity. Then I present my data and let the audience see that it worked for me, so I should be able to extract some features of my routine that made it work. I put these into three categories: the use of exercise, cheat days, and tracking apps.
 
 # Wireframes (Pre-feedback)
 
-Below are the original wireframes in the order that they appear in the storyboard above.
+Below are the original wireframe sketches in the order that they appear in the storyboard above.
 
 ![Summary Chart](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Original/wl_summary.jpg)
 
@@ -95,6 +96,8 @@ Story Board: Incorporated the visualization changes listed above, and changed th
 
 ![Revised Storyboard](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Revised/rev_storyboard4.jpg)
 
+My new story has some significant changes from the original. Aside from the order being changed, I refocused the initial summary chart to focus on calorie intake, so it sort of becomes a fourth lesson in addition to the other three I had before. This serves both purposes by teaching the reader an important lesson while also presenting interesting numbers that will entice the reader.
+
 # Wireframes (Feedback Implemented)
 
 ![Calories](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Revised/rev_calories.jpg)
@@ -104,6 +107,8 @@ Story Board: Incorporated the visualization changes listed above, and changed th
 ![Tracker](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Revised/rev_tracker.jpg)
 
 ![Cheat Days](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part2_Sketches/Revised/rev_cheat_day.jpg)
+
+See the "implemented changes" section under User Research to see the wireframe changes.
 
 # Moodboard
 
