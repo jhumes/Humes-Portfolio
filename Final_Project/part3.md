@@ -10,9 +10,9 @@ See parts 1 and 2 to view the earlier steps of my development process:
 
 ## References/Materials Used
 
-The final data story was created in [Shorthand](www.shorthand.com).
+The final data story was created in [Shorthand](shorthand.com).
 All data visualizations were created using Tableau.
-All stock imagery for title backgrounds in the final data story were from [pexels.com](www.pexels.com), a free stock image website.
+All stock imagery for title backgrounds in the final data story were from [pexels.com](pexels.com), a free stock image website.
 
 References used in the Final Data Story:
 1. Centers for Disease Control and Prevention. Adult Obesity Facts. [https://www.cdc.gov/obesity/data/adult.html](https://www.cdc.gov/obesity/data/adult.html). Accessed 10/9/2019.
