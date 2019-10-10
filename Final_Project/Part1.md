@@ -58,4 +58,6 @@ It will have the general structure:
 
 First, an introduction describing that most weight loss efforts fail, backed up by some statistics. Then, my data will be introduced with one simple visualization that reveals my efforts as successful. Then, a section exploring some of the data to build interest, looking at my habits that I spoke about in the Outline section. All of these explorations would follow of format of visualization followed by explanation/context, going through all of the interesting variables and trends and explaining how it relates to my weight loss and why being aware of it or controlling it might help people looking to lose weight. A final section will use the visualization of the actual vs. predicted trends for my weight to drive home the call to action that tracking apps and a strict exercise routine can have a positive impact on weight loss.
 
+[Part 2](https://jhumes.github.io/Humes-Portfolio/Final_Project/part2)
+
 [Return to Portfolio](https://jhumes.github.io/Humes-Portfolio/)
