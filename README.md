@@ -23,3 +23,5 @@ Week 3 - [Assignments 3 & 4 - Critique by Design](https://jhumes.github.io/Humes
 
 Final Project - "Visualizing My Own Weight Loss Habits: What Really Works?"
   [Part 1](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part1) - [Part 2](https://jhumes.github.io/Humes-Portfolio/Final_Project/part2) - [Part 3](https://jhumes.github.io/Humes-Portfolio/Final_Project/part3)
+  
+[The Final Data Story](https://carnegiemellon.shorthandstories.com/visualizing-my-weight-loss-habits/index.html)
