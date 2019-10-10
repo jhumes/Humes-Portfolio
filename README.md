@@ -22,4 +22,4 @@ Week 2 - [OECD Data Visualization](https://jhumes.github.io/Humes-Portfolio/wk2_
 Week 3 - [Assignments 3 & 4 - Critique by Design](https://jhumes.github.io/Humes-Portfolio/wk3_assignment3-4)
 
 Final Project - "Visualizing My Own Weight Loss Habits: What Really Works?"
-  [Part 1](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part1) - [Part 2](https://jhumes.github.io/Humes-Portfolio/Final_Project/part2)
+  [Part 1](https://jhumes.github.io/Humes-Portfolio/Final_Project/Part1) - [Part 2](https://jhumes.github.io/Humes-Portfolio/Final_Project/part2) - [Part 3](https://jhumes.github.io/Humes-Portfolio/Final_Project/part3)
